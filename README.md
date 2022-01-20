@@ -15,10 +15,6 @@ In Wordle, you need to guess a 5 letter word. The game lets you know which lette
 In Primel, you need to guess a 5 digit prime. The game lets you know which digits you get right each time you guess a valid 5 digit prime.
 
 
-# Is this supposed to be basically impossible?
-
-Yes.
-
 
 _To Run Locally:_
 Clone the repository and perform the following command line actions:
